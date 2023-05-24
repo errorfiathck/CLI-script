@@ -1,7 +1,5 @@
 # CLI-script
 
-# CLI-script
-
 [![NPM Version](https://img.shields.io/npm/v/netcat.svg)](https://www.npmjs.com/package/netcat)
 ![node](https://img.shields.io/node/v/netcat.svg)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
